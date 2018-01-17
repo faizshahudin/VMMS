@@ -8,4 +8,4 @@ To run this project, you need to do several preparations:
 
 1. install xampp or wampp server to start web services (apache and mysql) 
       or if you like challenge, you can start the web services through command line.
-      For xampp, you can download it <link href="https://www.apachefriends.org/download.html">here.
+      For xampp, you can download it <a href="https://www.apachefriends.org/download.html">here.</a>
